@@ -1,4 +1,5 @@
-baseurl = "https://www.center.yuge.ac.jp/"
+baseurl = "https://nityuge.gitlab.io/center/hugocenter"
+#baseurl = "https://www.center.yuge.ac.jp/"
 title = "弓削商船高専　情報処理教育センター"
 languageCode = "ja-jp"
 paginate = "3" # Number of posts per page
